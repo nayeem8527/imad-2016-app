@@ -23,7 +23,7 @@ var articles = {
             .This is the content for my first article.This is the content for my first article.This is the content for my first article.This is the content for my first article.
         </p>`
     },
-    'article=two' : {
+    'article-two' : {
         title: "Article Two | Mohammad Nayeem",
         heading: "Article Two", 
         date:"Sept 24, 2016",
