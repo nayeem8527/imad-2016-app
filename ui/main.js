@@ -20,7 +20,7 @@ button.onclick = function(){
 	};	
 
 	//Make a request
-	request.open("GET","http://192.168.100.3:8080/counter",true);
+	request.open("GET","http://nayeem8527.imad.hasura-app.io/counter",true);
 	request.send(null);
 };
 
